@@ -14,16 +14,32 @@
 
 ## 🧑‍💻 About Me
 
-```yaml
-name       : Tarik Bufardi
-age        : 22
-location   : Morocco 🇲🇦
-role       : Web Developer
-focus      : Frontend + Backend
-stack      : HTML · CSS · JavaScript · PHP · MySQL
-currently  : Building cool stuff & leveling up every day
-motto      : "First, solve the problem. Then, write the code."
-```
+<table>
+  <tr>
+    <td>🙋‍♂️ <strong>Name</strong></td>
+    <td>Tarik Bufardi</td>
+    <td>🌍 <strong>Location</strong></td>
+    <td>Morocco 🇲🇦</td>
+  </tr>
+  <tr>
+    <td>🎂 <strong>Age</strong></td>
+    <td>22 y/o</td>
+    <td>💼 <strong>Role</strong></td>
+    <td>Web Developer</td>
+  </tr>
+  <tr>
+    <td>🎯 <strong>Focus</strong></td>
+    <td>Frontend + Backend</td>
+    <td>🌱 <strong>Status</strong></td>
+    <td>Always leveling up 🚀</td>
+  </tr>
+  <tr>
+    <td>☕ <strong>Fuel</strong></td>
+    <td>Coffee & curiosity</td>
+    <td>💬 <strong>Motto</strong></td>
+    <td><em>"First solve the problem, then write the code."</em></td>
+  </tr>
+</table>
 
 ---
 
